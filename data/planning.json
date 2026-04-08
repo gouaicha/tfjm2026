@@ -66,5 +66,5 @@
   { "day": "Dimanche", "time": "14:15", "events": ["Temps libre", "Délibération Oral 3"] },
   { "day": "Dimanche", "time": "14:30", "location": "Amphi 1", "events": ["Exposé de clôture"] },
   { "day": "Dimanche", "time": "15:30", "location": "Amphi 1", "events": ["Cérémonie de clôture dont remise des prix"] },
-  { "day": "Dimanche", "time": "16:00", "events": ["Goûter de clôture"] }
+  { "day": "Dimanche", "time": "16:00", "events": ["Clôture"] }
 ]
