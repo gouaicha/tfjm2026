@@ -60,8 +60,7 @@
     {"title": "Débat 3", "poules": [
       {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "", "attaque": "", "observe": ""},
       {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "", "attaque": "", "observe": ""}
-    ]
-    }
+    ]}
   ] 
   },
   { "day": "Dimanche", "time": "14:15", "events": ["Temps libre", "Délibération Oral 3"] },
