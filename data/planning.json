@@ -6,38 +6,34 @@
   , "location":"Entrée Batiment 5"
   },
   { "day": "Samedi", "time": "11:30", "events": ["Cérémonie d'ouverture"], "location":"Amphi 1" },
-  { "day": "Samedi", "time": "12:00", "events": ["Déjeuner collectif"] },
+  { "day": "Samedi", "time": "12:00", "events": ["Temps Déjeuner Libre"] },
   { "day": "Samedi", "time": "12:30", "events": ["Travail autonome facultatif", "Formation nouveaux jurés"] },
   { "day": "Samedi", "time": "13:00", "events": ["Délibération sur les écrits"] },
   { "day": "Samedi", "time": "14:00", "events": [
     {"title": "Débat 1", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 7", "défend": "INV", "attaque": "TJM", "observe": "LSG"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 5", "défend": "LDV", "attaque": "NMS", "observe": "LGL"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 4", "défend": "PPR", "attaque": "LGR", "observe": "JDS"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"}
     ]}
   ] 
   },
   { "day": "Samedi", "time": "14:45", "events": ["Temps libre", "Délibération Oral 1"] },
   { "day": "Samedi", "time": "15:00", "events": [
     {"title": "Débat 2", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 2", "défend": "TJM", "attaque": "LSG", "observe": "INV"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 3", "défend": "NMS", "attaque": "LGL", "observe": "LDV"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 6", "défend": "LGR", "attaque": "JDS", "observe": "PPR"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"}
     ]}
   ] 
   },
   { "day": "Samedi", "time": "15:45", "events": ["Temps libre", "Délibération Oral 2"] },
   { "day": "Samedi", "time": "16:00", "events": [
     {"title": "Débat 3", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 4", "défend": "LSG", "attaque": "INV", "observe": "TJM"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 4", "défend": "LGR", "attaque": "LDV", "observe": "NMS"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 7", "défend": "JDS", "attaque": "PPR", "observe": "LGR"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
       
     ]
     }
   ] 
   },
-  { "day": "Samedi", "time": "16:45", "events": ["Goûter", "Délibération Oral 4"] },
   { "day": "Samedi", "time": "17:00", "events": ["Distribution solutions tour 2 et fiches synthèses vierges / travail autonome", "Calcul résultats Jour 1 et Harmonisation"] },
   { "day": "Samedi", "time": "17:30", "events": ["Rangement", "Travail autonome", "Retour aux équipes"] },
   { "day": "Samedi", "time": "18:15", "events": ["Annonce des résultats du Jour 1"] },
@@ -47,33 +43,30 @@
   { "day": "Dimanche", "time": "10:00", "events": ["Délibération écrits Jour 2"] },
   { "day": "Dimanche", "time": "11:00", "events": [
     {"title": "Débat 1", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 7", "défend": "PPR", "attaque": "LDV", "observe": "INV"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 3", "défend": "LGR", "attaque": "NMS", "observe": "TJM"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 1", "défend": "JDS", "attaque": "LGL", "observe": "LSG"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "???", "attaque": "???", "observe": "???"},
     ]}
   ] 
   },
   { "day": "Dimanche", "time": "11:45", "events": ["Temps libre", "Délibération Oral 1"] },
   { "day": "Dimanche", "time": "12:00", "events": [
     {"title": "Débat 2", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 4", "défend": "LDV", "attaque": "INV", "observe": "PPR"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 2", "défend": "NMS", "attaque": "TJM", "observe": "LGR"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 3", "défend": "LGL", "attaque": "LSG", "observe": "JDS"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "", "attaque": "", "observe": ""},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "", "attaque": "", "observe": "???"},
     ]}
   ] 
   },
-  { "day": "Dimanche", "time": "12:45", "events": ["Déjeuner", "Délibération Oral 2"] },
+  { "day": "Dimanche", "time": "12:45", "events": ["Temps Déjeuner Libre", "Délibération Oral 2"] },
   { "day": "Dimanche", "time": "13:30", "events": [
     {"title": "Débat 3", "poules": [
-      {"poule": "A", "location":"Amphi 1", "problème": "Problème 6", "défend": "INV", "attaque": "PPR", "observe": "LDV"},
-      {"poule": "B", "location":"Amphi 2", "problème": "Problème 1", "défend": "TJM", "attaque": "LGR", "observe": "NMS"},
-      {"poule": "C", "location":"Amphi 3", "problème": "Problème 7", "défend": "LSG", "attaque": "JDS", "observe": "LGL"}
+      {"poule": "A", "location":"Amphi 1", "problème": "Problème ?", "défend": "", "attaque": "", "observe": ""},
+      {"poule": "B", "location":"Amphi 2", "problème": "Problème ?", "défend": "", "attaque": "", "observe": ""},
       
     ]
     }
   ] 
   },
-  { "day": "Dimanche", "time": "14:15", "events": ["Déjeuner", "Délibération Oral 3"] },
+  { "day": "Dimanche", "time": "14:15", "events": ["Temps libre", "Délibération Oral 3"] },
   { "day": "Dimanche", "time": "14:30", "location": "Amphi 1", "events": ["Exposé de clôture"] },
   { "day": "Dimanche", "time": "15:30", "location": "Amphi 1", "events": ["Cérémonie de clôture dont remise des prix"] },
   { "day": "Dimanche", "time": "16:00", "events": ["Goûter de clôture"] }
