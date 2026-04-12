@@ -56,15 +56,15 @@
   ] 
   },
   { "day": "Dimanche", "time": "12:45", "events": ["Temps Déjeuner Libre", "Délibération Oral 2"] },
-  { "day": "Dimanche", "time": "13:30", "events": [
+  { "day": "Dimanche", "time": "13:15", "events": [
     {"title": "Débat 3", "poules": [
       {"poule": "A", "location":"Amphi 1", "problème": "Problème 2", "défend": "LSG", "attaque": "EDR", "observe": "FRC"},
       {"poule": "B", "location":"Amphi 2", "problème": "Problème 5", "défend": "JDS", "attaque": "SJS", "observe": "EXP"}
     ]}
   ] 
   },
-  { "day": "Dimanche", "time": "14:15", "events": ["Temps libre", "Délibération Oral 3"] },
-  { "day": "Dimanche", "time": "14:30", "location": "Amphi 1", "events": ["Exposé de clôture"] },
-  { "day": "Dimanche", "time": "15:30", "location": "Amphi 1", "events": ["Cérémonie de clôture dont remise des prix"] },
+  { "day": "Dimanche", "time": "14:00", "events": ["Temps libre", "Délibération Oral 3"] },
+  { "day": "Dimanche", "time": "14:15", "location": "Amphi 1", "events": ["Exposé de clôture"] },
+  { "day": "Dimanche", "time": "15:00", "location": "Amphi 1", "events": ["Cérémonie de clôture dont remise des prix"] },
   { "day": "Dimanche", "time": "16:00", "events": ["Clôture"] }
 ]
